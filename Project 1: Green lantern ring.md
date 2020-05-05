@@ -16,7 +16,9 @@ We must place an LDR and a load resistor in series across a 3V coin battery. Als
 
 I = VR/(R.r1+R.r2+r1.r2)
 
-where I  = Current across the green LED
+where :
+      
+      I  = Current across the green LED
 
       R  = Resistance of LDR
 
