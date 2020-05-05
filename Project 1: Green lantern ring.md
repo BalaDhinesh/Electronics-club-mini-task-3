@@ -22,3 +22,5 @@ Tinkercad simulation image:
 ![img](https://github.com/Ruban-VP/Electronics-club-mini-task-3/blob/master/Brave%20Waasa-Hillar.png?raw=true)
 
 Tinkercad simulation link: [Web link](https://www.tinkercad.com/things/g9umWpZAEXY-brave-waasa-hillar/editel?tenant=circuits?sharecode=LrNU6fSPrm9PLwGul8CrZp7oOIiafZzpptvUjarqxHY)
+
+__(The Tinkercad environment can't process this trigger and has a brightness level meter near the LDR. So, we can't expect the exact real-life result of the circuit in the simulation but at least get a feel of how the circuit exactly behaves. Moreover, the circuit is designed in a circular shape to exactly mimic the ring's structure.)__
