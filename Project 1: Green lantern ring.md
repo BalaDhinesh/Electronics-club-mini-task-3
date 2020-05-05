@@ -4,4 +4,15 @@ __Problem statement:__
 To design a simple ring which emits green light when worn and doesn't when not worn.
 
 __Design:__
-The basic mechanism must be a trigger, i.e., some sort of an interaction is induced when worn. So I thought of using an LED-LDR trigger for
+The basic mechanism must be a trigger, i.e., some sort of an interaction is induced when worn. So I thought of using an LED-LDR trigger for this purpose. An LED-LDR combination is a sort of a trigger where an LDR(Light dependent resistor) and a sufficiently bright LED are placed in parallel. An LDR has a resitance which is inversely proportional to the intensity of light falling on it. Using this principle, we can use this combination as a trigger. 
+
+We must place an LDR and a load resistor in series across a 3V coin battery. Also, the LED is placed in front of the LDR and this LED is also connected to the 3V coin battery in series with a load resistor in order to prevent it from burning due to high currents. The volage drop across the LDR is:
+
+V.D = VR/(R+Rl)
+
+where V.D = voltage drop across LDR
+        R = Resistance of LDR
+       Rl = Resistance of load in series with LDR
+        V = Voltage of the battery connected to these series resistors
+        
+From the formula, we can see that V.D increases as R increases. This means V.D increases as intensity of light falling on the LDR decreases. Hence, So if we use this voltage drop as the source voltage for the appropriately loaded green LED, we can basically control its switching by just placing an obstacle in between, namely '__Wearing__' in this case. Also, we can have a switch across the brightness inducing LED for switching it off when the ring is not worn. This switch will be outside the ring's interior and hence, won't cause any irritation to the finger.
