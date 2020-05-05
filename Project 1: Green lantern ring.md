@@ -16,3 +16,9 @@ where V.D = voltage drop across LDR
         V = Voltage of the battery connected to these series resistors
         
 From the formula, we can see that V.D increases as R increases. This means V.D increases as intensity of light falling on the LDR decreases. Hence, So if we use this voltage drop as the source voltage for the appropriately loaded green LED, we can basically control its switching by just placing an obstacle in between, namely '__Wearing__' in this case. Also, we can have a switch across the brightness inducing LED for switching it off when the ring is not worn. This switch will be outside the ring's interior and hence, won't cause any irritation to the finger.
+
+Tinkercad simulation image:
+
+![img](https://github.com/Ruban-VP/Electronics-club-mini-task-3/blob/master/Brave%20Waasa-Hillar.png?raw=true)
+
+Tinkercad simulation link: [Web link](https://www.tinkercad.com/things/g9umWpZAEXY-brave-waasa-hillar/editel?tenant=circuits?sharecode=LrNU6fSPrm9PLwGul8CrZp7oOIiafZzpptvUjarqxHY)
