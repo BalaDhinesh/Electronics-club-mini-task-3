@@ -26,7 +26,7 @@ where :
        
       r2 = Resistance of load in series with the parallel combination of R and r1 (Refer diagram for better understanding) 
       
-      V  = Voltage of the battery connected to these series resistors
+      V  = Voltage of the battery (3V in this case)
         
 From the formula, we can see that the current increases as R increases. This means current increases as intensity of light falling on the LDR decreases. Hence, we can basically control the __Brightness of the green LED__ or __SWITCHING__ by just placing an opaque obstacle in between, namely '__Wearing__' in this case. Also, we can have a slideswitch across the other LED (used to irradiate the LDR) for switching it off when the ring is not worn. This switch will be outside the ring's interior and hence, won't cause any irritation to the finger.
 
