@@ -8,7 +8,7 @@ The basic mechanism must be a trigger, i.e., some sort of an interaction is indu
 
 Tinkercad simulation image:
 
-![img](https://github.com/Ruban-VP/Electronics-club-mini-task-3/blob/master/Brave%20Waasa-Hillar.png?raw=true)
+![img](https://github.com/Ruban-VP/Electronics-club-mini-task-3/blob/master/Project%201/Brave%20Waasa-Hillar%20(1).png)
 
 Tinkercad simulation link: [Web link](https://www.tinkercad.com/things/g9umWpZAEXY-brave-waasa-hillar/editel?tenant=circuits?sharecode=LrNU6fSPrm9PLwGul8CrZp7oOIiafZzpptvUjarqxHY)
 
