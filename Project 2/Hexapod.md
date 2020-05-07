@@ -8,4 +8,7 @@ In order to create a visual representation of the bot on a computer screen, we n
 
 Data from IMU sensors => Microcontroller => Computer's microprocessor => 3D model moving according to the data acquired and the code programmed into it
 
+Pipeline flowchart:
+
+![flow](https://github.com/Ruban-VP/Electronics-club-mini-task-3/blob/master/Project%202/Data%20from%20IMU-page0001.jpg)
 
